@@ -1,0 +1,53 @@
+entity_id,display_name,iso3,region_id,region_name,sovereign_id,entity_type,match_status,scope_relation,notes
+GRL,Greenland,GRL,north_america,North America,DNK,territory,matched,exact,Autonomous territory within the Kingdom of Denmark
+CAN,Canada,CAN,north_america,North America,,country,matched,exact,Sovereign state
+USA,United States,USA,north_america,North America,,country,matched,exact,Sovereign state (50 states + DC)
+MEX,Mexico,MEX,latin_america,Latin America & Caribbean,,country,matched,exact,Sovereign state
+BRA,Brazil,BRA,latin_america,Latin America & Caribbean,,country,matched,exact,Sovereign state
+ARG,Argentina,ARG,latin_america,Latin America & Caribbean,,country,matched,exact,Sovereign state
+CHL,Chile,CHL,latin_america,Latin America & Caribbean,,country,matched,exact,Sovereign state
+COL,Colombia,COL,latin_america,Latin America & Caribbean,,country,matched,exact,Sovereign state
+PER,Peru,PER,latin_america,Latin America & Caribbean,,country,matched,exact,Sovereign state
+VEN,Venezuela,VEN,latin_america,Latin America & Caribbean,,country,matched,exact,Sovereign state
+RUS,Russia,RUS,europe,Europe,,country,matched,exact,Transcontinental sovereign state (categorized under Europe per Natural Earth)
+GBR,United Kingdom,GBR,europe,Europe,,country,matched,exact,Sovereign state
+FRA,France,FRA,europe,Europe,,country,matched,exact,Metropolitan France
+DEU,Germany,DEU,europe,Europe,,country,matched,exact,Sovereign state
+ITA,Italy,ITA,europe,Europe,,country,matched,exact,Sovereign state
+ESP,Spain,ESP,europe,Europe,,country,matched,exact,Sovereign state
+NOR,Norway,NOR,europe,Europe,,country,matched,exact,Sovereign state
+SWE,Sweden,SWE,europe,Europe,,country,matched,exact,Sovereign state
+FIN,Finland,FIN,europe,Europe,,country,matched,exact,Sovereign state
+ISL,Iceland,ISL,europe,Europe,,country,matched,exact,Sovereign state
+UKR,Ukraine,UKR,europe,Europe,,country,matched,exact,Sovereign state
+POL,Poland,POL,europe,Europe,,country,matched,exact,Sovereign state
+COD,Dem. Rep. Congo,COD,africa,Africa,,country,matched,exact,Sovereign state
+NGA,Nigeria,NGA,africa,Africa,,country,matched,exact,Sovereign state
+EGY,Egypt,EGY,africa,Africa,,country,matched,exact,Sovereign state
+ZAF,South Africa,ZAF,africa,Africa,,country,matched,exact,Sovereign state
+ETH,Ethiopia,ETH,africa,Africa,,country,matched,exact,Sovereign state
+KEN,Kenya,KEN,africa,Africa,,country,matched,exact,Sovereign state
+TZA,Tanzania,TZA,africa,Africa,,country,matched,exact,Sovereign state
+DZA,Algeria,DZA,africa,Africa,,country,matched,exact,Sovereign state
+SDN,Sudan,SDN,africa,Africa,,country,matched,exact,Sovereign state
+MAR,Morocco,MAR,africa,Africa,,country,matched,exact,Sovereign state
+GHA,Ghana,GHA,africa,Africa,,country,matched,exact,Sovereign state
+CHN,China,CHN,asia,Asia,,country,matched,exact,Sovereign state (Mainland)
+IND,India,IND,asia,Asia,,country,matched,exact,Sovereign state
+IDN,Indonesia,IDN,asia,Asia,,country,matched,exact,Archipelagic sovereign state
+JPN,Japan,JPN,asia,Asia,,country,matched,exact,Sovereign state
+KOR,South Korea,KOR,asia,Asia,,country,matched,exact,Sovereign state
+SAU,Saudi Arabia,SAU,asia,Asia,,country,matched,exact,Sovereign state
+TUR,Türkiye,TUR,asia,Asia,,country,matched,exact,Transcontinental sovereign state
+IRN,Iran,IRN,asia,Asia,,country,matched,exact,Sovereign state
+PAK,Pakistan,PAK,asia,Asia,,country,matched,exact,Sovereign state
+BGD,Bangladesh,BGD,asia,Asia,,country,matched,exact,Sovereign state
+VNM,Vietnam,VNM,asia,Asia,,country,matched,exact,Sovereign state
+THA,Thailand,THA,asia,Asia,,country,matched,exact,Sovereign state
+MYS,Malaysia,MYS,asia,Asia,,country,matched,exact,Sovereign state
+PHL,Philippines,PHL,asia,Asia,,country,matched,exact,Sovereign state
+KAZ,Kazakhstan,KAZ,asia,Asia,,country,matched,exact,Sovereign state
+AUS,Australia,AUS,oceania,Oceania,,country,matched,exact,Sovereign continent/state
+NZL,New Zealand,NZL,oceania,Oceania,,country,matched,exact,Sovereign state
+PNG,Papua New Guinea,PNG,oceania,Oceania,,country,matched,exact,Sovereign state
+FJI,Fiji,FJI,oceania,Oceania,,country,matched,exact,Sovereign island state spanning antimeridian (180°)

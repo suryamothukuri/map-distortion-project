@@ -1,0 +1,21 @@
+sources:
+  natural_earth:
+    title: "Natural Earth Admin 0 - Map Units (1:50m)"
+    url: "https://naciscdn.org/naturalearth/50m/cultural/ne_50m_admin_0_map_units.zip"
+    license: "Public Domain"
+    license_url: "https://www.naturalearthdata.com/about/terms-of-use/"
+    version: "5.1.1"
+
+  world_bank_wdi:
+    title: "World Bank World Development Indicators"
+    url: "https://api.worldbank.org/v2"
+    license: "CC BY 4.0"
+    license_url: "https://data.worldbank.org/summary-terms-of-use"
+    version: "2026-v1"
+
+  owid_co2:
+    title: "Our World in Data (OWID) CO2 Dataset"
+    url: "https://raw.githubusercontent.com/owid/co2-data/master/owid-co2-data.csv"
+    license: "CC BY 4.0 (Global Carbon Budget)"
+    license_url: "https://github.com/owid/co2-data/blob/master/README.md"
+    version: "2026-v1"

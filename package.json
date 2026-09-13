@@ -1,0 +1,20 @@
+{
+  "name": "map-distortion-project",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Interactive map distortion and geographic representation explorer (Mercator vs. Equal Earth)",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev": "npm --workspace=apps/web run dev",
+    "build": "npm --workspace=apps/web run build",
+    "test": "npm --workspace=packages/geo run test",
+    "test:api": "PYTHONPATH=. .venv/bin/pytest",
+    "check:budgets": "node scripts/check-budgets.mjs"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  }
+}

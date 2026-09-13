@@ -1,0 +1,49 @@
+metrics:
+  boundary_area:
+    label: "Boundary Area (Spherical Model)"
+    unit: "km²"
+    definition: "Spherical surface area derived from 1:50m cartographic boundaries using R = 6,371,007.1809m."
+    additive: true
+    source_id: "natural_earth"
+
+  land_area:
+    label: "Reported Land Area"
+    unit: "km²"
+    definition: "Official statistical land area (excluding inland water bodies), World Bank AG.LND.TOTL.K2."
+    additive: true
+    source_id: "world_bank_wdi"
+
+  population:
+    label: "Total Population"
+    unit: "persons"
+    definition: "Total midyear resident population count, World Bank SP.POP.TOTL."
+    additive: true
+    source_id: "world_bank_wdi"
+
+  gdp:
+    label: "Nominal Gross Domestic Product (GDP)"
+    unit: "current US$"
+    definition: "Gross domestic product in current nominal US dollars, World Bank NY.GDP.MKTP.CD."
+    additive: true
+    source_id: "world_bank_wdi"
+
+  co2_emissions:
+    label: "Territorial CO2 Emissions"
+    unit: "tonnes"
+    definition: "Annual territorial fossil fuel and industrial carbon dioxide emissions, OWID / Global Carbon Budget."
+    additive: true
+    source_id: "owid_co2"
+
+  forest_area:
+    label: "Forest Area"
+    unit: "km²"
+    definition: "Land spanning more than 0.5 hectares with trees higher than 5 meters, World Bank AG.LND.FRST.K2."
+    additive: true
+    source_id: "world_bank_wdi"
+
+  resource_rents:
+    label: "Natural Resource Rents"
+    unit: "% of GDP"
+    definition: "Total natural resources rents (oil, gas, coal, mineral, forest) as a percentage of GDP, World Bank NY.GDP.TOTL.RT.ZS."
+    additive: false
+    source_id: "world_bank_wdi"
